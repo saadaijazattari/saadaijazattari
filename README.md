@@ -14,13 +14,6 @@ currently learning Backend Development<br/>
   <img src="https://komarev.com/ghpvc/?username=saadaijazattari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-### 👨‍💻 About Me
-- 🌐 Frontend-focused developer with backend learning in progress  
-- 🔧 Working on full-stack concepts step by step  
-- 🚀 Interested in building complete web applications  
-- 💡 Always improving logic, UI, and performance  
 
 ---
 
@@ -42,13 +35,27 @@ currently learning Backend Development<br/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
 </p>
 
+
+![snake gif](https://github.com/saadaijazattari/saadaijazattari/blob/output/github-snake-dark.svg)
+
+
 ---
 
 ### 🔗 Portfolio
 <p align="center">
-  <a href="https://saadaijazattari.github.io/portfolio/" target="_blank">
+  <a href="https://portfolio-saadaijaz.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/>
   </a>
 </p>
+
+
+---
+
+### 👨‍💻 About Me
+- 🌐 Frontend-focused developer with backend learning in progress  
+- 🔧 Working on full-stack concepts step by step  
+- 🚀 Interested in building complete web applications  
+- 💡 Always improving logic, UI, and performance  
+
 
 </div>
