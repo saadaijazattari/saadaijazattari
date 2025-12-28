@@ -35,7 +35,7 @@ currently learning Backend Development<br/>
 </p>
 
 
-![snake gif](https://github.com/saadaijazattari/saadaijazattari/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/saadaijazattari/saadaijazattari/blob/output/github-snake.svg)
 
 
 ---
