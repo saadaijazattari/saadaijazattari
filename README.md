@@ -52,10 +52,10 @@ currently learning Backend Development<br/>
 ---
 
 ### 👨‍💻 About Me
-- 🌐 Frontend-focused developer with backend learning in progress  
-- 🔧 Working on full-stack concepts step by step  
-- 🚀 Interested in building complete web applications  
-- 💡 Always improving logic, UI, and performance  
+ 🌐 Frontend-focused developer with backend learning in progress  
+ 🔧 Working on full-stack concepts step by step  
+ 🚀 Interested in building complete web applications  
+ 💡 Always improving logic, UI, and performance  
 
 
 </div>
