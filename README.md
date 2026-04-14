@@ -34,7 +34,7 @@ A Full Stack Developer<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,firebase,git,html,js,mongodb,nextjs,nodejs,react,redux,tailwind,typescript,mui,socketio,supabase&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,mui,nodejs,express,mongodb,firebase,supabase,git,typescript,socketio,cloudinary&perline=9" />
   </a>
 </p>
 
