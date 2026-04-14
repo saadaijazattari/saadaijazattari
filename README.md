@@ -56,7 +56,7 @@ A Full Stack Developer<br/>
 - 🧠 Avid reader of **Tech Blogs**; I love staying updated with the latest trends in Web Architecture and AI integration.
 - 💡 Focus: Writing clean, scalable code and bridging the gap between **User Experience (UX)** and **Backend Logic**.
 - 💬 Ask me about: **React, AI Integration, or Frontend-to-Backend transitions.**
-- 📫 Let's connect! You can reach me at: [Your Email]
+- 📫 Let's connect! You can reach me at: [saad.aijaz1234@gmail.com]
 
 
 </div>
