@@ -5,9 +5,7 @@
 </h1>
 
 <h3 style="font-size:20px;">
-A passionate Frontend Web Developer<br/>
-currently learning Backend Development<br/>
-(Node.js, Express & MongoDB)
+A Full Stack Developer<br/>
 </h3>
 
 <p>
