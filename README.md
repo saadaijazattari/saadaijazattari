@@ -49,10 +49,14 @@ A Full Stack Developer<br/>
 ---
 
 ### 👨‍💻 About Me
- 🌐 Frontend-focused developer with backend learning in progress  
- 🔧 Working on full-stack concepts step by step  
- 🚀 Interested in building complete web applications  
- 💡 Always improving logic, UI, and performance  
+
+- 🚀 **Full-Stack Developer** with a passion for building intelligent, data-driven web applications.
+- 🛠️ Recently engineered an **AI-powered Clinic Management Tool** to streamline healthcare workflows and patient data management.
+- ⚡ Currently diving deep into **Next.js** to master Server-Side Rendering (SSR) and building high-performance full-stack apps.
+- 🧠 Avid reader of **Tech Blogs**; I love staying updated with the latest trends in Web Architecture and AI integration.
+- 💡 Focus: Writing clean, scalable code and bridging the gap between **User Experience (UX)** and **Backend Logic**.
+- 💬 Ask me about: **React, AI Integration, or Frontend-to-Backend transitions.**
+- 📫 Let's connect! You can reach me at: [Your Email]
 
 
 </div>
