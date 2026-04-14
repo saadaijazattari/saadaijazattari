@@ -32,6 +32,13 @@ A Full Stack Developer<br/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
+
+
 
 ![snake gif](https://github.com/saadaijazattari/saadaijazattari/blob/output/github-snake.svg)
 
