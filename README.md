@@ -15,12 +15,31 @@ A Full Stack Developer<br/>
 
 ---
 
-### 🛠️ Languages & Tools
+<h3 align="left">🚀 Frontend Core:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux" />
+  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide_React-00B4D8?style=flat-square&logo=lucide&logoColor=white" />
+</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,mui,nodejs,express,mongodb,firebase,supabase,git,typescript,socketio,cloudinary&perline=9" />
-  </a>
+<h3 align="left">🎨 Styling & UI:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui" />
+</p>
+
+<h3 align="left">⚙️ Backend & Database:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+  <img src="https://img.shields.io/badge/EJS-8B0000?style=flat-square&logo=ejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
+</p>
+
+<h3 align="left">🛠️ Development Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,typescript,socketio,cloudinary,postman" />
+  <img src="https://img.shields.io/badge/Thunder_Client-FF6C37?style=flat-square&logo=thunderclient&logoColor=white" />
 </p>
 
 
